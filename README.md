@@ -1,6 +1,5 @@
 ## Hey there 👋
 
-### Bio
 ```
 import SoftwareDeveloper from 'vparuthi';
 
