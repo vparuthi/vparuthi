@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-```
+```javascript
 import SoftwareDeveloper from 'vparuthi';
 
 class Bio extends SoftwareDeveloper {
