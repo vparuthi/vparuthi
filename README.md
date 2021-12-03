@@ -11,16 +11,14 @@ class Bio extends SoftwareDeveloper {
 }
 ```
 
-- 💻 I'm currently working with Tophatter as a full-stack engineer
+- 💻 I'm currently working with as a full-stack engineer
 - 💡 My experience is spread all over, but I'm always interested to learn! 
 - 🔭 I'm currently working on full-stack projects using JS/TS, React, Redux, Node.js, and Ruby on Rails
 - 📫 Feel free to reach out me on [LinkedIn](https://www.linkedin.com/in/verajparuthi/)
 
-### Hot takes 🔥
+### Hot Takes 🔥
 - A straw has one hole and not two
 - Water is dry
-- Open windows >>> Air conditioning
-
 
 <!--
 **vparuthi/vparuthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
